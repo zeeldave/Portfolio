@@ -10,4 +10,4 @@ function ExperienceCard({ src, link, h3, p }) {
   );
 }
 
-export default ExperienceCardCard;
+export default ExperienceCard;
